@@ -1,0 +1,22 @@
+# Virtual environment
+tp_ml_env/
+
+# Dataset (downloaded by the script)
+datos_har/
+datos_har.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
